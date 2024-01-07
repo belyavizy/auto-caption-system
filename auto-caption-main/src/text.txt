@@ -1,0 +1,1 @@
+<templateData><componentData id="Text1"><data id="text" value="Леонид Попов"/></componentData><componentData id="Text2"><data id="text" value="человек"/></componentData></templateData>

@@ -1,0 +1,1 @@
+<templateData><componentData id="_title"><data id="text" value="D:\Leo\pythonProject\PycharmProjects\auto"/></componentData><componentData id="_subtitle"><data id="text" value="caption-system\src\people\Леонид_Попоао-опаливала"/></componentData></templateData>
